@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1566574051 source:e:\c++e\lab13\main.cpp
+	<iostream>
+	"TreeType.cpp"
+
+1566572689 e:\c++e\lab13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"QueType.h"
+	<iostream>
+
+1566572678 e:\c++e\lab13\binarysearchtree.h
+	"quetype.h"
+
+1566572678 e:\c++e\lab13\quetype.h
+
+1566573015 source:e:\c++e\lab13\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1566573040 source:e:\c++e\lab13\treetype.cpp
+	"TreeType.h"
+	"QueType.cpp"
+	<iostream>
+
+1566573015 e:\c++e\lab13\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1566572912 e:\c++e\lab13\treetype.h
+	"QueType.h"
+
+1566573040 e:\c++e\lab13\treetype.cpp
+	"TreeType.h"
+	"QueType.cpp"
+	<iostream>
+
